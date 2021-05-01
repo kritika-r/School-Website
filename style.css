@@ -15,3 +15,41 @@ h1{
 #gmail{
     font-size:20px;
 }
+.travel_mainDiv{
+    float: left;
+    width: 33.3%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+.travel_mainDiv img{
+    width:450px;
+        height:300px;
+    
+}
+.travel_mainDiv hr{
+    width:100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left:20px;
+}
+.row::after{
+    content:"";
+    clear:both;
+    display:table;
+}
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display:inline-block;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:#ff7700;
+}
+#achievementsID{
+    padding-bottom: 10px;
+}
