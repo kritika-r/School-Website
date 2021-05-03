@@ -50,3 +50,32 @@ h1{
 #achievementsID{
     padding-bottom: 10px;
 }
+#whats_new img{
+    width:250px;
+    height:200px;
+    margin-bottom: 100px;
+   
+}
+#whats_new p{
+    margin-top:50px;
+}
+#whats_new li{
+    height:300px;
+   
+}
+li{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+#heading{
+    margin-bottom: 20px;
+}
+#big{
+    height:200px;
+}
+#achievement1{
+    margin-top:30px;
+}
+#text{
+    font-size:30px;
+}
